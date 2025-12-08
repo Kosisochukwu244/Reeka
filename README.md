@@ -40,7 +40,7 @@ This project develops an **induction cooker** that integrates:
 - Onyedikachi George - electrical/electronic design engineer
 - Kosisochukwu Moronu - CAD design engineer/ embedded engineer
 
-**Institution**: [University of NIgeria Nsukka]
+**Institution**: University of NIgeria Nsukka
 
 ---
 
